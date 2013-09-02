@@ -4,6 +4,5 @@ bin
 gen
 assets/www/ch*
 *DS_Store
-assets/www/resources/icons/
-assets/www/resources/css
-assets/www/resources/app.js*
+assets/www/resources
+assets/www/*.js*
